@@ -7,7 +7,7 @@ from transformers import BertModel
 
 '''
 纯 PyTorch 手动实现 Bert 结构
-与官方输出对比
+与官方输出对比 
 模型文件下载 https://huggingface.co/models
 '''
 
